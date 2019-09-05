@@ -24,9 +24,9 @@ sys.path.insert(0, str(src))
 
 # -- Project information -----------------------------------------------------
 
-project = 'fabric8-analytics-rudra'
-copyright = '2019, Ravindra Singh Ratnawat'
-author = 'Ravindra Singh Ratnawat'
+project = 'infra-adapter'
+copyright = '2019, Redhat'
+author = 'Code Ready Analytics Team'
 
 # The short X.Y version
 version = ''
@@ -110,7 +110,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'fabric8-analytics-rudradoc'
+htmlhelp_basename = 'infra-adapterdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -137,8 +137,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'fabric8-analytics-rudra.tex', 'fabric8-analytics-rudra Documentation',
-     'Ravindra Singh Ratnawat', 'manual'),
+    (master_doc, 'infra-adapter.tex', 'infra-adapter Documentation',
+     'Code Ready Analytics Team', 'manual'),
 ]
 
 
@@ -147,7 +147,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'fabric8-analytics-rudra', 'fabric8-analytics-rudra Documentation',
+    (master_doc, 'infra-adapter', 'infra-adapter Documentation',
      [author], 1)
 ]
 
@@ -158,8 +158,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'fabric8-analytics-rudra', 'fabric8-analytics-rudra Documentation',
-     author, 'fabric8-analytics-rudra', 'One line description of project.',
+    (master_doc, 'infra-adapter', 'infra-adapter Documentation',
+     author, 'infra-adapter', 'One line description of project.',
      'Miscellaneous'),
 ]
 

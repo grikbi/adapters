@@ -1,9 +1,9 @@
-.. fabric8-analytics-rudra documentation master file, created by
+.. infra-adapter documentation master file, created by
    sphinx-quickstart on Wed Mar 20 23:00:30 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to fabric8-analytics-rudra's documentation!
+Welcome to infra-adapter's documentation!
 ===================================================
 
 .. toctree::
